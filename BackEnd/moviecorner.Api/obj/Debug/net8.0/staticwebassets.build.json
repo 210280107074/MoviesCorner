@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GNSP0fJj5Mt+E7uYgc6kv2eZxaaVfrMHo35yba5GrSg=",
+  "Source": "moviecorner.Api",
+  "BasePath": "_content/moviecorner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

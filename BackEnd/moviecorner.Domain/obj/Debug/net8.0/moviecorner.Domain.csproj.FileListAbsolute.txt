@@ -1,0 +1,14 @@
+E:\MovieCorner\BackEnd\moviecorner.Domain\bin\Debug\net8.0\moviecorner.Domain.deps.json
+E:\MovieCorner\BackEnd\moviecorner.Domain\bin\Debug\net8.0\moviecorner.Domain.dll
+E:\MovieCorner\BackEnd\moviecorner.Domain\bin\Debug\net8.0\moviecorner.Domain.pdb
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.AssemblyInfoInputs.cache
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.AssemblyInfo.cs
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.csproj.CoreCompileInputs.cache
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.dll
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\refint\moviecorner.Domain.dll
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.pdb
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\ref\moviecorner.Domain.dll
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.csproj.AssemblyReference.cache
+E:\MovieCorner\BackEnd\moviecorner.Domain\bin\Debug\net8.0\moviecorner.Domain.runtimeconfig.json
+E:\MovieCorner\BackEnd\moviecorner.Domain\obj\Debug\net8.0\moviecorner.Domain.genruntimeconfig.cache
