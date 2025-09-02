@@ -62,3 +62,48 @@ BackEnd/*.db
 FrontEnd/node_modules/
 FrontEnd/dist/
 FrontEnd/.env
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+*.cache
+*.mdb
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.dbmdl
+*.bak
+*.ldf
+*.ndf
+*.sql
+
+
+.vscode/
+.vs/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.idea/
